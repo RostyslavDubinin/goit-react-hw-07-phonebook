@@ -1,0 +1,38 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    },
+    "contacts": [
+      {
+        "name": "kiril",
+        "number": "576-55-75",
+        "id": "Alo7CRo"
+      },
+      {
+        "name": "Olexandr",
+        "number": "588-55-77",
+        "id": "V5VdhJj"
+      },
+      {
+        "name": "Bob",
+        "number": "333-44-55",
+        "id": "X9OXzu_"
+      }
+    ]
+  }
+
+  
