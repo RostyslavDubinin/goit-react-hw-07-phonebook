@@ -1,36 +1,29 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "json-server",
-      "author": "typicode"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "contacts": [
     {
-      "name": "Olexandr",
-      "number": "588-55-77",
-      "id": "V5VdhJj"
-    },
-    {
-      "name": "Ростислав",
-      "number": "",
-      "id": "02D893K"
-    },
-    {
       "name": "Rosie Simpson",
+      "number": "459-12-56",
+      "id": "id-1"
+    },
+    {
+      "name": "Hermione Kline",
+      "number": "443-89-12",
+      "id": "id-2"
+    },
+    {
+      "name": "Eden Clements",
+      "number": "645-17-79",
+      "id": "id-3"
+    },
+    {
+      "name": "Annie Copeland",
+      "number": "227-91-26",
+      "id": "id-4"
+    },
+    {
+      "name": "Rostyslav",
       "number": "000000",
-      "id": "WOfDMiV"
+      "id": "jbXPhxl"
     }
   ]
 }
